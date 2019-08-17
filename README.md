@@ -1,0 +1,2 @@
+# StudentManagementSystem
+SpringBoot+Layui搭建的学生管理系统，加入了shiro安全框架和Ehcache缓存框架
